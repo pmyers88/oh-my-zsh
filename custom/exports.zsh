@@ -7,6 +7,8 @@ export PATH=$PATH:/usr/local/sbin:$GRADLE_HOME/bin:$JAVA_HOME/bin
 
 ITS_CORE=/Users/phil/it-service/its-core
 export ITS_CORE
+IT_SOLUTION=/Users/phil/it-service/it-solution
+export IT_SOLUTION
 ITSVC_HOME=/Users/phil/its-properties
 export ITSVC_HOME
 ITS_SERVICE=$ITS_CORE/dist/build/install/its
